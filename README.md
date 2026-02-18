@@ -1,16 +1,33 @@
-## Hi there 👋
+# J. Victor Tavares 👋
 
-<!--
-**joaoVictorTavaresDeSouza/joaoVictorTavaresDeSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação  
+💻 Desenvolvedor em formação
+📍 Brasil
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou estudante de TI com formação técnica, experiência profissional como projetista e atualmente focado em desenvolvimento de sistemas.  
+Tenho interesse em backend, lógica de programação e banco de dados e PHP, buscando crescer profissionalmente na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e estudos
+- Java (em estudo)
+- SQL (em estudo)
+- Frontend
+- Lógica de programação
+- Git e GitHub
+- AutoCAD
+
+## 📂 Projetos
+Aqui no meu GitHub você encontra:
+- sistemas simples em Java
+- projetos de lógica e organização de código
+- projetos diretos de desenvolvimento web
+- aplicações em desenvolvimento para portfólio
+
+## 🌱 Atualmente aprendendo
+- Java orientado a objetos
+- HTML, CSS, JavaScript
+- Boas práticas de programação
+
+## 📫 Contato
+- GitHub: https://github.com/JoaoVictor11BTI
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-victor-tavares-581669333/
