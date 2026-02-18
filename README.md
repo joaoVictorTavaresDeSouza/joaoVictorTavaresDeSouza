@@ -29,5 +29,5 @@ Aqui no meu GitHub você encontra:
 - Boas práticas de programação
 
 ## 📫 Contato
-- GitHub: https://github.com/JoaoVictor11BTI
+- GitHub: https://github.com/joaoVictorTavaresDeSouza
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-victor-tavares-581669333/
