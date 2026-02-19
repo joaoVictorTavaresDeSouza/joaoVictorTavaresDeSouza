@@ -2,7 +2,7 @@
 
 🎓 Estudante de Tecnologia da Informação  
 💻 Desenvolvedor em formação
-📍 Brasil
+📍 SP | Brasil
 
 ## 🚀 Sobre mim
 Sou estudante de TI com formação técnica, experiência profissional como projetista e atualmente focado em desenvolvimento de sistemas.  
