@@ -11,6 +11,8 @@ Full Stack Developer • Information Technology Student • Building Web Applica
 
 </div>
 
+<hr>
+
 <div class="sobreMim">
   
 ## 🧠 About Me
@@ -21,6 +23,8 @@ Full Stack Developer • Information Technology Student • Building Web Applica
 - 🚀 Passionate about automations, side-projects, and good UX
 
 </div>
+
+<hr>
 
 <div class="especialidades">
 
@@ -36,6 +40,8 @@ Full Stack Developer • Information Technology Student • Building Web Applica
 
 </div>
 
+<hr>
+
 <div class="stats">
 
 ## 📈 GitHub Stats
@@ -47,6 +53,8 @@ Full Stack Developer • Information Technology Student • Building Web Applica
   
 </div>
 
+<hr>
+
 <div class="contato">
 
 ## 📫 Let's Connect
@@ -54,4 +62,14 @@ Full Stack Developer • Information Technology Student • Building Web Applica
 - 💼[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-tavares-581669333/)
 - 📧joaovictor.tsouzaz@gmail.com
 
+</div>
+
+<hr>
+
+<div class="citacao" align="center">
+  <p>
+    <i>
+  “The best user experience is the one you don’t notice.” - Guilhermo Rauch
+    </i>
+  </p>
 </div>
