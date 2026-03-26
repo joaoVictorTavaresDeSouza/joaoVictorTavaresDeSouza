@@ -58,7 +58,7 @@ Full Stack Developer • Information Technology Student • Building Web Applica
 <div class="contato">
 
 ## 📫 Let's Connect
-- 📃[Lattes](https://github.com/joaoVictorTavaresDeSouza)
+- 📃[Lattes](http://lattes.cnpq.br/0626359212966645)
 - 💼[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-tavares-581669333/)
 - 📧joaovictor.tsouzaz@gmail.com
 
