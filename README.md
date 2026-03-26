@@ -17,6 +17,7 @@ Full Stack Developer • Information Technology Student • Building Web Applica
   
 ## 🧠 About Me
 - 🔨 I'm a Full Stack Developer who loves building clean, fast and scalable applications
+- ⚡ I enjoy turning ideas into real-world products
 - 📍 Based in São Paulo, São Paulo – Brazil
 - ⚙️ Focused on clean architecture, performance, and intuitive UI
 - 🔍 Always learning something new – from DevOps to AI integrations
@@ -58,6 +59,8 @@ Full Stack Developer • Information Technology Student • Building Web Applica
 <div class="contato">
 
 ## 📫 Let's Connect
+Feel free to reach out for collaborations, projects or just a chat!
+
 - 📃[Lattes](http://lattes.cnpq.br/0626359212966645)
 - 💼[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-victor-tavares-581669333/)
 - 📧joaovictor.tsouzaz@gmail.com
@@ -69,7 +72,7 @@ Full Stack Developer • Information Technology Student • Building Web Applica
 <div class="citacao" align="center">
   <p>
     <i>
-  “The best user experience is the one you don’t notice.” - Guilhermo Rauch
+  “The best user experience is the one you don’t notice.” - Guillermo Rauch
     </i>
   </p>
 </div>
