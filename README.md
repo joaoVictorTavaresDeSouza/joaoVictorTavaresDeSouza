@@ -48,7 +48,8 @@ Full Stack Developer • Information Technology Student • Building Web Applica
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVictorTavaresDeSouza&show_icons=true&theme=radical" /> 
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoVictorTavaresDeSouza&show_icons=true&theme=radical" />
+  
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoVictorTavaresDeSouza&layout=compact&theme=radical" />
 </p>
   
